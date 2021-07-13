@@ -3,7 +3,7 @@
 int sorted[10];
 
 int main(){
-   
-   printf("Hello world!");
+
+	print("Bye world!");
     return 0;
 }
