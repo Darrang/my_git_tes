@@ -4,6 +4,6 @@ int sorted[10];
 
 int main(){
 
-   printf("Bye world!");
+	print("Bye world!");
     return 0;
 }
